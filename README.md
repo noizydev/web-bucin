@@ -3,7 +3,7 @@
 
 # **Web-bucin**
 
-> BocchiBot is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+> Web gabut cocok buat iseng
 >
 >
 
@@ -40,7 +40,7 @@
 
 
 # License
-**BocchiBot** © [SlavyanDesu](https://github.com/SlavyanDesu), released under the MIT License.
+**Web-bucin** © [Dave](https://github.com/Davznet), released under the MIT License.
 Authored and maintained by SlavyanDesu.
 
 <p align="center">
