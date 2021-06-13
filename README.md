@@ -9,9 +9,6 @@
 
 <h3 align="center">Made by Dave</h3>
 
-<p align="center">
-  <a href="https://github.com/SlavyanDesu"><img title="Author" src="https://img.shields.io/badge/Author-SlavyanDesu-purple.svg?style=for-the-badge&logo=github" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/SlavyanDesu/BocchiBot"><img title="Stars" src="https://img.shields.io/github/stars/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
@@ -33,10 +30,6 @@
   <a href="https://github.com/SlavyanDesu/BocchiBot#license">License</a>
 </p>
 
-<h4 align="center">
-  <a href="https://chat.whatsapp.com/EMwIy6dPDbhDVpgdDyt7Gs">Join WA BOT DEV Indonesia!</a>
-</h4>
-</div>
 
 
 # License
